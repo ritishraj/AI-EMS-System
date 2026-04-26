@@ -41,9 +41,7 @@ AI-EMS-System/
 │
 
 ├── frontend/   # React Application
-
 ├── backend/    # Node.js API Server
-
 └── README.md
 
 Getting Started
