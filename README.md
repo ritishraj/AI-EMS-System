@@ -39,7 +39,6 @@ Deployment: Vercel + Render
 Project Structure
 AI-EMS-System/
 │
-
 ├── frontend/   # React Application
 ├── backend/    # Node.js API Server
 └── README.md
@@ -58,8 +57,11 @@ Live Preview
 Frontend: Running on Vercel
 Backend: Running on Render
 🔮 Future Enhancements
+
 🤖 AI Chatbot integration
+
 📄 Resume Analyzer system
 📅 Attendance tracking
+
 💰 Payroll system
 📊 Advanced analytics dashboard
